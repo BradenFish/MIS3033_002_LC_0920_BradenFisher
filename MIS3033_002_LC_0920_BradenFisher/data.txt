@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 163,
+    "Name": "Tulsa",
+    "State": "Oklahoma",
+    "Population": 398121,
+    "Lon": -95.992775,
+    "Lat": 36.1539816
+  },
+  {
+    "Id": 201,
+    "Name": "Oklahoma City",
+    "State": "Oklahoma",
+    "Population": 610613,
+    "Lon": -97.5164276,
+    "Lat": 35.4675602
+  },
+  {
+    "Id": 216,
+    "Name": "Lawton",
+    "State": "Oklahoma",
+    "Population": 97151,
+    "Lon": -98.3959291,
+    "Lat": 34.6035669
+  },
+  {
+    "Id": 337,
+    "Name": "Broken Arrow",
+    "State": "Oklahoma",
+    "Population": 103500,
+    "Lon": -95.7974526,
+    "Lat": 36.060949
+  },
+  {
+    "Id": 449,
+    "Name": "Muskogee",
+    "State": "Oklahoma",
+    "Population": 38863,
+    "Lon": -95.3696909,
+    "Lat": 35.7478769
+  },
+  {
+    "Id": 659,
+    "Name": "Stillwater",
+    "State": "Oklahoma",
+    "Population": 47186,
+    "Lon": -97.0583681,
+    "Lat": 36.1156071
+  },
+  {
+    "Id": 702,
+    "Name": "Midwest City",
+    "State": "Oklahoma",
+    "Population": 56756,
+    "Lon": -97.3967019,
+    "Lat": 35.4495065
+  },
+  {
+    "Id": 760,
+    "Name": "Edmond",
+    "State": "Oklahoma",
+    "Population": 87004,
+    "Lon": -97.4780954,
+    "Lat": 35.6528323
+  },
+  {
+    "Id": 805,
+    "Name": "Enid",
+    "State": "Oklahoma",
+    "Population": 50725,
+    "Lon": -97.8783911,
+    "Lat": 36.3955891
+  },
+  {
+    "Id": 809,
+    "Name": "Norman",
+    "State": "Oklahoma",
+    "Population": 118197,
+    "Lon": -97.4394777,
+    "Lat": 35.2225668
+  },
+  {
+    "Id": 821,
+    "Name": "Moore",
+    "State": "Oklahoma",
+    "Population": 58414,
+    "Lon": -97.4867028,
+    "Lat": 35.3395079
+  }
+]
